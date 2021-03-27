@@ -1,0 +1,5 @@
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a97ff45ef}",
+                "name": "Cygwin",
+                "hidden": false,
+                "commandline": "C:/cygwin64/Cygwin.bat",
+                "icon": "C:/cygwin64/Cygwin-Terminal.ico"
